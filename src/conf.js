@@ -5,12 +5,12 @@ conf.tonServerKeys = ['main.ton.dev', 'net.ton.dev'];
 conf.tonServers = {
   "main.ton.dev": {
     name: 'Main Net',
-    endpoints: ["https://main2.ton.dev", "https://main3.ton.dev", "https://main4.ton.dev"],
+    endpoints: ["https://mainnet.evercloud.dev/b17a652df5d642a6aa6e9dae4601685a"],
     color: '#0083e0',
   },
   "net.ton.dev": {
     name: 'Test Net',
-    endpoints: ["https://net1.ton.dev", "https://net5.ton.dev"],
+    endpoints: ["https://devnet.evercloud.dev/b17a652df5d642a6aa6e9dae4601685a"],
     color: '#da8302',
   },
 };
